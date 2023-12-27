@@ -55,6 +55,7 @@ Remember to have fun and pace yourself!
 ## JS Resources
 1. [Code with Harry JS paylist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
 
+---
 
 # Resources for Backend (Web) Development
 
