@@ -37,6 +37,10 @@ Remember to have fun and pace yourself!
 19. To Generate SVG Patterns - [Flectofy](https://flectofy.flecto.io)
 20. [Responsively](https://responsively.app)
 
+
+## Must Try
+[Flex Box Game](https://labs.thecodehelp.in/fruitbox-flex)
+
 ## Essential Documentation
 1. [Mozilla Webdevelopment Docs](https://developer.mozilla.org/en-US/)
 
