@@ -120,3 +120,11 @@ Remember to have fun and pace yourself!
 - The Complete Node.js Course [Code with Mosh](https://mega.nz/folder/AtYWCZjK#hLOTRFl7d2WLWdSjVkO14A)
 
 To further your knowledge, it is always best to build and break things. **Don't get stuck in tutorial hell!!**
+
+# Some Free Hosting Websites
+
+1. [GitHub Pages](https://pages.github.com)
+2. [Render](https://render.com)
+3. [CloudFare Pages](https://www.cloudflare.com/en-in/)
+4. [Vercel](https://vercel.com)
+5. [Netlify](https://www.netlify.com)
