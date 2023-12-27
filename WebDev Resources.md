@@ -18,7 +18,7 @@ Remember to have fun and pace yourself!
 
 1. [Google Fonts](https://fonts.google.com)
 2. [Hex Colors](https://hexcolor.co)
-3. [Coolers](https://coolors.co)
+3. [Font Awesome Icons](https://fontawesome.com)
 4. [Tailwind CSS](https://tailwindcss.com)
 5. [Bootstrap](https://getbootstrap.com)
 6. Microsoft: [Web Dev for Beginners Course](https://github.com/microsoft/Web-Dev-For-Beginners)
