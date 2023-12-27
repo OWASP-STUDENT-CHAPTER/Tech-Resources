@@ -14,6 +14,19 @@ Remember to have fun and pace yourself!
 8. Experiment with small projects and gradually increase complexity to reinforce your understanding and skills.
 
 
+## Some Cool Repositories/ Websites
+
+1. [Google Fonts](https://fonts.google.com)
+2. [Hex Colors](https://hexcolor.co)
+3. [Coolers](https://coolors.co)
+4. [Tailwind CSS](https://tailwindcss.com)
+5. [Bootstrap](https://getbootstrap.com)
+6. Microsoft: [Web Dev for Beginners Course](https://github.com/microsoft/Web-Dev-For-Beginners)
+7. [30 Days of JS Challenge](https://github.com/wesbos/JavaScript30)
+8. [Realworld Demo Apps](https://github.com/gothinkster/realworld)
+9. !! [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+10. Bennet Freely Tools - [Bennet Freely Website](https://bennettfeely.com/)
+
 # Resources for Frontend (Web) Development
 ## HTML Related Resources
 
@@ -38,14 +51,6 @@ Remember to have fun and pace yourself!
 1. [Code with Harry JS paylist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
 
 
-## Some Exclusive Resources 
-
-1. [Google Fonts](https://fonts.google.com)
-2. [Hex Colors](https://hexcolor.co)
-3. [Coolers](https://coolors.co)
-4. [Tailwind CSS](https://tailwindcss.com)
-5. [Bootstrap](https://getbootstrap.com)
-
 # Resources for Backend (Web) Development
 
 `Note: Most of these backend resources are also good for general programming.`  
@@ -68,14 +73,6 @@ Remember to have fun and pace yourself!
 3. [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 4. [Net Ninja](https://www.youtube.com/@NetNinja)
 5. [CodeWithHarry](https://www.youtube.com/@CodeWithHarry)
-
-## Some Cool Repositories
-
-1. Microsoft: [Web Dev for Beginners Course](https://github.com/microsoft/Web-Dev-For-Beginners)
-2. [30 Days of JS Challenge](https://github.com/wesbos/JavaScript30)
-3. [Realworld Demo Apps](https://github.com/gothinkster/realworld)
-4. !! [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
-5. Bennet Freely Tools - [Bennet Freely Website](https://bennettfeely.com/)
 
 ## Language Specific Resources
 
