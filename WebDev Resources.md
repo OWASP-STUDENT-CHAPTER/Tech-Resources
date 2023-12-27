@@ -14,7 +14,7 @@ Remember to have fun and pace yourself!
 8. Experiment with small projects and gradually increase complexity to reinforce your understanding and skills.
 
 
-## Some Cool Repositories/ Websites
+## Some Cool Repositories / Websites
 
 1. [Google Fonts](https://fonts.google.com)
 2. [Hex Colors](https://hexcolor.co)
@@ -39,6 +39,7 @@ Remember to have fun and pace yourself!
 
 
 ## Must Try
+### Accept The Challenge :)
 [Flex Box Game](https://labs.thecodehelp.in/fruitbox-flex)
 
 ## Essential Documentation
