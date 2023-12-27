@@ -1,0 +1,94 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, ol, table, form {
+    margin: 0;
+    padding: 0;
+}
+/* #heading{
+    color: gold;
+}
+
+.headingsssssss{
+    font-size: 10px;
+} */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+/* Header styles */
+h1 {
+    color: #0066cc;
+    border: 2px black solid;
+    padding: 20px;
+}
+
+/* Section heading styles */
+h2 {
+    color: #0099cc;
+    border-bottom: 2px solid #0099cc;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 15px;
+}
+
+/* List styles */
+ul, ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/* Table styles */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Form styles */
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    background-color: #0099cc;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Responsive styles for smaller screens */
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 1.5em;
+    }
+}
