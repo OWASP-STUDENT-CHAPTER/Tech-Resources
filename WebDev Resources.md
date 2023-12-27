@@ -26,6 +26,16 @@ Remember to have fun and pace yourself!
 8. [Realworld Demo Apps](https://github.com/gothinkster/realworld)
 9. !! [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 10. Bennet Freely Tools - [Bennet Freely Website](https://bennettfeely.com/)
+11. [WebTools](https://webcode.tools/#google_vignette)
+12. [Cool Backgrounds](https://coolbackgrounds.io)
+13. [Small Web Tools](https://smalldev.tools)
+14. [Visual Type Scale](https://typescale.com)
+15. [Waves Generator](https://getwaves.io)
+16. [Blob Generator](https://www.blobmaker.app)
+17. [Clip Path Generator](https://bennettfeely.com/clippy/)
+18. To Generate Animations - [Animista](https://animista.net)
+19. To Generate SVG Patterns - [Flectofy](https://flectofy.flecto.io)
+20. [Responsively](https://responsively.app)
 
 ## Essential Documentation
 1. [Mozilla Webdevelopment Docs](https://developer.mozilla.org/en-US/)
