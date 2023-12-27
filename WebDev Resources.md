@@ -1,7 +1,8 @@
 # Web Dev Resources
 Remember to have fun and pace yourself!
 
-## Things to Note
+## Before We Start
+### Things to Note
 
 1. Free resources are always available and are often better than paid resources.
 2. Always try to read the documentation first and then look for video resources.
