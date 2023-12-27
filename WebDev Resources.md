@@ -37,6 +37,15 @@ Remember to have fun and pace yourself!
 ## JS Resources
 1. [Code with Harry JS paylist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
 
+
+## Some Exclusive Resources 
+
+1. [Google Fonts](https://fonts.google.com)
+2. [Hex Colors](https://hexcolor.co)
+3. [Coolers](https://coolors.co)
+4. [Tailwind CSS](https://tailwindcss.com)
+5. [Bootstrap](https://getbootstrap.com)
+
 # Resources for Backend (Web) Development
 
 `Note: Most of these backend resources are also good for general programming.`  
