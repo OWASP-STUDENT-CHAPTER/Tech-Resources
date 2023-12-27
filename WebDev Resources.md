@@ -27,6 +27,11 @@ Remember to have fun and pace yourself!
 9. !! [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 10. Bennet Freely Tools - [Bennet Freely Website](https://bennettfeely.com/)
 
+## Essential Documentation
+1. [Mozilla Webdevelopment Docs](https://developer.mozilla.org/en-US/)
+
+---
+
 # Resources for Frontend (Web) Development
 ## HTML Related Resources
 
