@@ -1,13 +1,16 @@
 # Web Dev Resources
-Remember to have fun and pace yourself !
+Remember to have fun and pace yourself!
 
 ## Things to Note
 
-1. Free resources are always available and are more often than not better than paid resources.
+1. Free resources are always available and are often better than paid resources.
 2. Always try to read the documentation first and then look for video resources.
-3. Stackoverflow, Medium articles and Gen. AIs like ChatGPT, Bard are your friends (beware they hallucinate sometimes). Always search on the internet to find solutions to your problems.
-4. **Best way to learn is to build.**
+3. Stackoverflow, Medium articles and Gen. AIs like ChatGPT, Bard are your friends (beware, they hallucinate sometimes). Always search on the internet to find solutions to your problems.
+4. **The best way to learn is to build.**
 5. Don't take too much pressure. You've got a lot of time to specialise in any field.
+6. Seek feedback on your work from peers or mentors to gain valuable insights and improve continuously.
+7. Develop problem-solving skills by tackling real-world challenges through personal projects or by participating in coding competitions.
+8. Experiment with small projects and gradually increase complexity to reinforce your understanding and skills.
 
 
 # Resources for Frontend (Web) Development
